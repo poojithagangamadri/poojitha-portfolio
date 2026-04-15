@@ -77,3 +77,10 @@ I am an ambitious and dedicated Electronics and Communication Engineering gradua
 - To gain industry experience in embedded systems and machine learning  
 
 ---
+## 🔄 Upcoming Projects
+
+- GNSS TEC Gradient Analysis (MATLAB)
+- LTE BER Analysis using MATLAB
+- Deep Learning Projects using MATLAB
+
+*Currently under development*
