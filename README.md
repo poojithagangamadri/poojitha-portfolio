@@ -5,9 +5,9 @@
 
 ---
 
-## 🎯 Summary
+## 🎯 Career Objective
 
-I am an ambitious and dedicated Electronics and Communication Engineering graduate seeking an opportunity in a reputed organization. I aim to continuously develop my skills, knowledge, and experience while contributing effectively to the company’s growth and success.
+I am an ambitious and dedicated Electronics and Communication Engineering graduate seeking an opportunity in a reputed organization. I aim to continuously develop my skills and contribute effectively to organizational growth while enhancing my knowledge and experience.
 
 ---
 
@@ -17,63 +17,63 @@ I am an ambitious and dedicated Electronics and Communication Engineering gradua
   G Narayanamma Institute of Technology and Science (2021–2025)  
   CGPA: 8.52  
 
-- **Senior Secondary School**  
-  Padma Sri Junior College (2019–2021)  
-  Percentage: 84%  
+- **Intermediate (Senior Secondary)**  
+  Padma Sri Junior College (2019–2021) – 84%  
 
-- **Secondary School**  
-  Sri Sai High School (2018–2019)  
-  CGPA: 9.8  
+- **SSC (Secondary School)**  
+  Sri Sai High School (2018–2019) – CGPA: 9.8  
 
 ---
 
 ## 🚀 Projects
 
 ### 🏠 Home Automation Using Arduino (Voice Control)
-- Developed a voice-controlled home automation system using Arduino, Bluetooth, and relay modules  
-- Controlled appliances like lights and fans using a smartphone app  
-- Implemented wireless communication and automation logic  
 
-**Skills:** Embedded Systems, Arduino, IoT, Bluetooth Communication  
+🔹 Developed a voice-controlled home automation system using Arduino and Bluetooth  
+🔹 Controlled appliances like lights and fans via smartphone  
+🔹 Used relay modules for switching devices  
+
+**Technologies Used:** Arduino, Embedded Systems, Bluetooth  
 
 ---
 
 ### 🧠 CNN Based Brain Tumor Detection
-- Developed a deep learning model using Convolutional Neural Networks (CNN)  
-- Improved accuracy in tumor detection from medical images  
-- Implemented using Python and machine learning techniques  
 
-**Skills:** Python, Deep Learning, CNN, Image Processing  
+🔹 Built a deep learning model using CNN for tumor detection  
+🔹 Improved accuracy for medical image classification  
+🔹 Implemented using Python  
+
+**Technologies Used:** Python, CNN, Machine Learning  
 
 ---
 
-## 💻 Technical Skills
+## 💡 Skills
 
 - **Programming:** Python, SQL, HTML  
-- **Core Concepts:** Data Structures, Verilog  
-- **Domains:** Embedded Systems, AI/ML  
+- **Core:** Data Structures, Verilog  
+- **Domains:** AI/ML, Embedded Systems  
 
 ---
 
 ## 📜 Certifications
 
-- Python Programming – CODSOFT (May–June 2025)  
-- Semiconductor Skills – Coursera (Micron University)  
+- Python Programming – CODSOFT  
+- Semiconductor Skills – Coursera  
 - Introduction to Python – Infosys Springboard  
 - SQL Certification – HackerRank  
 
 ---
 
-## 🎤 Workshops & Seminars
+## 🎤 Workshops
 
-- Robotics and AI/ML Workshop (June 2021)  
-- Nebulous Mock Placement – GNITS (Aug 2021)  
+- Robotics and AI/ML Workshop  
+- Nebulous Mock Placement – GNITS  
 
 ---
 
-## 📫 Contact Me
+## 📌 Future Goals
 
-📧 poojithagangamadri@gmail.com  
-📱 +91-8019865194  
+- To work on real-time communication and AI-based projects  
+- To gain industry experience in embedded systems and machine learning  
 
 ---
